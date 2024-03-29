@@ -1,11 +1,6 @@
 # Assignment1 -> Tasks to be performed!
 ## currently working on it
 
-27. Alien Colors #3: Turn your if-else chain from Exercise 5-4 into an if-else chain.
-• If the alien is green, print a message that the player earned 5 points.
-• If the alien is yellow, print a message that the player earned 10 points.
-• If the alien is red, print a message that the player earned 15 points.
-• Write three versions of this program, making sure each message is printed for the appropriate color alien.
 
 28. Stages of Life: Write an if-else chain that determines a person’s stage of life. Set a value for the variable age, and then:
 • If the person is less than 2 years old, print a message that the person is a baby.
